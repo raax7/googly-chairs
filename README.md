@@ -1,4 +1,4 @@
-## If you would like a proper cheat for most og fortnite seasons, join [1hAck](https://discord.gg/1hack.org)
+## If you would like a proper cheat for most og fortnite seasons, join [1hAck](https://discord.gg/1hack)
 
 ## Folder Contents
 ```
