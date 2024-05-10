@@ -10,6 +10,7 @@
     |__ Latest Cheat.dll - Latest fortnite cheat dll (packed with themida)
     |__ Latest Loader.exe - Fortnite 12.41 cheat loader (packed with themida)
     |__ Mapper.exe - Kdmapper that they use (unpacked, originally packed with themida)
+|__ unpacked/ - Unpacked above files that were packed
 ```
 
 ## Usage
