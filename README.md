@@ -1,4 +1,7 @@
-## If you would like a proper cheat for most og fortnite seasons, join [1hAck](https://discord.gg/1hack)
+## If you would like a proper cheat for OG Fortnite, join [1hAck](https://discord.gg/1hack)
+
+## What is this?
+The files in this repo are dumped from [GoogleCheatz](https://googlecheatz.store). The dumped files include the 2 cheat DLLs, driver and mapper. You can run these as they are, no modifications needed. You are free to do what you want with these files, reverse them, detect them, use them, whatever you want. You can join my [Discord](https://discord.gg/xFjwbcE7Fu) for more things from me.
 
 ## Folder Contents
 ```
